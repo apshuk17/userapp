@@ -19,6 +19,9 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "ua",
       "styles": [
+        "../node_modules/bootstrap/dist/css/bootstrap-grid.min.css",
+        "../node_modules/bootstrap/dist/css/bootstrap-reboot.min.css",
+        "../node_modules/bootstrap/dist/css/bootstrap.min.css",
         "styles.css"
       ],
       "scripts": [],
